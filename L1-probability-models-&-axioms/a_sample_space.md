@@ -1,4 +1,4 @@
-# Sample Space
+## Sample Space
 
 Two steps :
 - Describe possible outcomes & beliefs about likelihood of outcomes
@@ -19,3 +19,8 @@ List must be:
 
 
 ![Cartesian3](https://github.com/user-attachments/assets/5fc28ac9-ce18-486b-bc9d-a7422c191c55)
+
+## Probability Axioms
+1. Non-negativity: P(A) >= 0
+2. Normalization: P(S) = 1
+3. Additivity(mutually exc): P(AUB) = P(A) + P(B)
