@@ -33,5 +33,8 @@ Find P(X<=3) = 1/6 + 1/6 + 1/6 = 1/2
 
 ## Continuos Probability
 P(X=x) = 0 (probability of exact value = 0) 
-P(a <= X <= b) = ≤b)= \int_a^b f(x) dx
+P(a <= X <= b) = ≤b)= ∫ba f(x)dx
+
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/89df8ef0-0ca4-449d-90be-2009e612640a" />
+
 
