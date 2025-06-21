@@ -24,3 +24,14 @@ List must be:
 1. Non-negativity: P(A) >= 0
 2. Normalization: P(S) = 1
 3. Additivity(mutually exc): P(AUB) = P(A) + P(B)
+
+## Discrete Probability
+P (X = x) = Number of favorable outcome / Total number outcome
+S = {1, 2, 3, 4, 5, 6} 
+Find P(X=4) = 1/6
+Find P(X<=3) = 1/6 + 1/6 + 1/6 = 1/2
+
+## Continuos Probability
+P(X=x) = 0 (probability of exact value = 0) 
+P(a <= X <= b) = ≤b)= \int_a^b f(x) dx
+
