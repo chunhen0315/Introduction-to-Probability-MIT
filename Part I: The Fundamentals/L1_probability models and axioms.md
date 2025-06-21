@@ -37,4 +37,16 @@ P(a <= X <= b) = ≤b)= ∫ba f(x)dx
 
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/89df8ef0-0ca4-449d-90be-2009e612640a" />
 
+## Probability Calculation Steps
+1. Specify sample space
+2. Specify a prbability law
+3. Identify an event of interest
+4. Calculate
+
+## Countable Additivity Axiom:
+If A1, A2, A3,... is an infinite sequence of disjoint events, 
+then P(A1, A2, A3,...) = P(A1) + P(A2) + P(A3)+ ...
+
+- Additicity holds only for 'countable' event
+
 
