@@ -61,3 +61,27 @@ then P(A1, A2, A3,...) = P(A1) + P(A2) + P(A3)+ ...
 <img width="525" alt="image" src="https://github.com/user-attachments/assets/d55ae121-ad51-4e0c-8dd8-414444938c4c" />
 <img width="676" alt="image" src="https://github.com/user-attachments/assets/2cf8b3c3-669f-47d7-b072-11a4d0a07337" />
 
+## When does a sequence converge? 
+A sequence converges when its terms get closer and closer to a fixed number (called the limit) as n→∞.
+
+Example: 
+an = 1/n > {1, 1/2, 1/3, 1/4,...} 
+As n→∞, an > 0 
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/2830cba2-fdc6-4c16-9ec9-2e35d239f331" />
+
+​## Infinite Seires
+The sum of the terms of an infinite sequence. 
+
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/cc218326-9b04-4e95-959d-71c5bc9ed12d" />
+if ai >= 0, limit exists
+
+If terms ai, do not all have same sign:
+- limit need not exist
+- limit may exist but be different if we sum in a different order
+
+- Fact: limit exists and independent of order of summation if <img width="84" alt="image" src="https://github.com/user-attachments/assets/cf178f71-e464-43d2-a466-b6a29a4940bd" />
+
+
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/5161dac1-6eea-44f8-b275-aa30fbd4f4f5" />
+
