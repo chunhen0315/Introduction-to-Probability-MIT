@@ -88,3 +88,12 @@ If terms ai, do not all have same sign:
 
 <img width="479" alt="image" src="https://github.com/user-attachments/assets/56cb555b-d04f-4182-88cb-79fe067d74dd" />
 
+## Countable vs Uncountable Infinite Sets
+| Feature        | Countable                            | Uncountable                 |
+| -------------- | ------------------------------------ | --------------------------- |
+| Size           | "Listable"                           | "Too many to list"          |
+| Infinite?      | Can be finite or infinite            | Always infinite             |
+| Examples       | $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ | $\mathbb{R}, [0,1]$         |
+| In probability | Discrete random variables            | Continuous random variables |
+
+
