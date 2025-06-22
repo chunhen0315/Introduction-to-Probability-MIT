@@ -49,4 +49,15 @@ then P(A1, A2, A3,...) = P(A1) + P(A2) + P(A3)+ ...
 
 - Additicity holds only for 'countable' event
 
+## Intersection & Union
+| Concept      | Symbol     | Meaning                        |
+| ------------ | ---------- | ------------------------------ |
+| Intersection | $A \cap B$ | Elements in both A **and** B   |
+| Union        | $A \cup B$ | Elements in A **or** B or both |
+
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/3cfc06f9-19a5-433b-9e0e-759566ee7f9d" />
+
+## De Morgan's Laws
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/d55ae121-ad51-4e0c-8dd8-414444938c4c" />
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/2cf8b3c3-669f-47d7-b072-11a4d0a07337" />
 
