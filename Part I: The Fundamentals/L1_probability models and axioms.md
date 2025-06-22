@@ -85,3 +85,6 @@ If terms ai, do not all have same sign:
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/5161dac1-6eea-44f8-b275-aa30fbd4f4f5" />
 
+
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/56cb555b-d04f-4182-88cb-79fe067d74dd" />
+
